@@ -1,10 +1,19 @@
 {
-  "name": "hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
     "hardhat": "^2.22.18"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.2.0"
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.2.0",
+    "@types/chai": "^5.0.1",
+    "chai": "^5.1.2",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "modules": "link:@nomicfoundation/hardhat-ignition/modules",
+    "network-helpers": "link:@nomicfoundation/hardhat-toolbox/network-helpers",
+    "viem": "^2.22.9"
   }
 }

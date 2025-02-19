@@ -1,7 +1,7 @@
 const VARIABLES = {
   canonical: 'https://ctvnjhnrmmlp.vercel.app',
-  name: 'MintX',
-  nameConfig: 'MintX',
+  name: 'Selyo Quest',
+  nameConfig: 'Selyo Quest',
   developers: 'John Rommel Octaviano',
   stacks: '',
   words: '',
